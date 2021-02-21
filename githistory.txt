@@ -1,0 +1,14 @@
+cd to sites and close Brad's files
+  213  git clone https://github.com/LearnWebCode/travel-site-files.git
+
+  214  cd /Users/Tucci/Desktop/Sites/travel-site 
+
+  215  git remote set-url origin https://github.com/mccorobo/travel-site.git
+  216  git remote -v
+  217  git push origin master
+  218  git status
+  219  git add -A
+  220  git status
+  221  git commit -m 'added new meta keywords'
+  222  git push origin master
+  223  history
