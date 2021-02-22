@@ -12,3 +12,14 @@ cd to sites and close Brad's files
   221  git commit -m 'added new meta keywords'
   222  git push origin master
   223  history
+
+
+
+file:///Users/Tucci/Desktop/Sites/travel-site/app/assets/images/hero--large.jpg
+First, setup the new account
+
+go to directory that you want to make a repo of...
+run git init - this creates a repository in git
+create a file such as index.html
+run git add index.html
+run git status
